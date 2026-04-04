@@ -133,3 +133,9 @@ dmypy.json
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+lake/
+tests/lake/
+logs/
+.venv/
+__pycache__/
